@@ -1,4 +1,4 @@
-# DSA400 — Learn patterns. Solve with confidence.
+# DSA400 - Learn patterns. Solve with confidence.
 
 **400 problems · 68 patterns · 17 topics**
 
